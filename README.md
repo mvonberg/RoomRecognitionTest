@@ -1,2 +1,2 @@
 # Room Recognition Test
-Audio files for the room recogntion test (RRT) and the reverberation matching test (RMT) of the \code{raleR} package.
+Audio files for the room recogntion test (RRT) and the reverberation matching test (RMT) of the raleR package.
