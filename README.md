@@ -1,2 +1,2 @@
-# RoomRecognitionTest
-Source code and demo files for the implementation of the Recognition Test in psychTestR
+# Room Recognition Test
+Audio files for the room recogntion test (RRT) and the reverberation matching test (RMT) of the \code{raleR} package.
